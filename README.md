@@ -47,11 +47,11 @@ This project demonstrates modern backend development practices by implementing a
 
 ### API Endpoints
 
-![Endpoints](docs/endpoints.png)
+![Endpoints](students/docs/endpoints.png)
 
 ### PostgreSQL Database
 
-![PostgreSQL](docs/postgresql.png)
+![PostgreSQL](students/docs/postgresql.png)
 
 ---
 
