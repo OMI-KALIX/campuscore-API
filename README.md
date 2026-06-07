@@ -47,31 +47,29 @@ This project demonstrates modern backend development practices by implementing a
 
 ### API Endpoints
 
-![Endpoints](students/docs/endpoints.png)
+![Endpoints](docs/endpoints.png)
 
 ### PostgreSQL Database
 
-![PostgreSQL](students/docs/postgresql.png)
+![PostgreSQL](docs/postgresql.png)
 
 ---
 
 ## 🏗️ Project Structure
 
 ```text
-students/
-│
 ├── .env
 ├── .gitignore
 ├── Dockerfile
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
-│
 ├── main.py
 ├── database.py
 ├── models.py
 ├── schemas.py
 └── students.py
+
 ```
 
 ---
