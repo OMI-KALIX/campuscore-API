@@ -19,9 +19,9 @@ This project demonstrates modern backend development practices by implementing a
 
 ## 🔗 Links
 
-* 🌐 Live API: https://your-app.onrender.com
-* 📚 Swagger UI: https://your-app.onrender.com/docs
-* 📖 ReDoc: https://your-app.onrender.com/redoc
+* 🌐 Live API: https://campuscore-api.onrender.com
+* 📚 Swagger UI: https://campuscore-api.onrender.com/docs
+* 📖 ReDoc: https://campuscore-api.onrender.com/redoc
 * 🐳 Docker Hub: https://hub.docker.com/r/omikalix/campuscore-api
   
 ---
@@ -58,18 +58,17 @@ This project demonstrates modern backend development practices by implementing a
 ## 🏗️ Project Structure
 
 ```text
-├── .env
+campuscore-API/
+├── docs/
 ├── .gitignore
-├── Dockerfile
-├── requirements.txt
-├── README.md
 ├── LICENSE
-├── main.py
+├── README.md
 ├── database.py
+├── main.py
 ├── models.py
+├── requirements.txt
 ├── schemas.py
 └── students.py
-
 ```
 
 ---
@@ -79,8 +78,7 @@ This project demonstrates modern backend development practices by implementing a
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
-cd students
+git clone https://github.com/OMI-KALIX/campuscore-API.git
 ```
 
 ### Install Dependencies
