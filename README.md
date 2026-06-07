@@ -13,7 +13,7 @@
 
 A lightweight Student Management REST API built with FastAPI, PostgreSQL, SQLAlchemy, and Pydantic.
 
-This project serves as a prototype for building scalable backend services with proper database integration, validation, and CRUD operations.
+This project demonstrates modern backend development practices by implementing a fully functional CRUD-based Student Management System with PostgreSQL database integration, SQLAlchemy ORM, and robust request validation using Pydantic. The application follows a clean and modular architecture, supports containerized deployment with Docker, and can be deployed to cloud platforms such as Render. Designed as a learning and portfolio project, it provides a scalable foundation for building larger backend services while showcasing industry-standard tools and development workflows.
 
 ---
 
@@ -45,17 +45,13 @@ This project serves as a prototype for building scalable backend services with p
 
 ## 📸 Screenshots
 
-### Swagger UI
+### API Endpoints
 
-![Swagger UI](docs/swagger-ui.png)
+![Endpoints](docs/endpoints.png)
 
 ### PostgreSQL Database
 
 ![PostgreSQL](docs/postgresql.png)
-
-### API Endpoints
-
-![Endpoints](docs/endpoints.png)
 
 ---
 
