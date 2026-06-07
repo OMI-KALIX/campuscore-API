@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker)
 ![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?logo=render)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Docker Pulls](https://img.shields.io/docker/pulls/omikalix/campuscore-api?style=flat-square&logo=docker&label=Docker%20Pulls)](https://hub.docker.com/r/omikalix/campuscore-api)
+[![Docker Pulls](https://img.shields.io/docker/pulls/omikalix/campuscore-api)](https://hub.docker.com/r/omikalix/campuscore-api)
 [![Docker Image Size](https://img.shields.io/docker/image-size/omikalix/campuscore-api/latest?style=flat-square&logo=docker&label=Image%20Size)](https://hub.docker.com/r/omikalix/campuscore-api)
 
 A lightweight Student Management REST API built with FastAPI, PostgreSQL, SQLAlchemy, and Pydantic.
